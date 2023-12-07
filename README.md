@@ -1,12 +1,5 @@
-### Hi there 👋
 <div id="header" align="center">
-<h1>Hi there, I'm Aleksandr</h1>
-</div>
-
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="200"/>
+<h1>Hi there 👋, I'm Aleksandr</h1>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/Alexandr_Berezkin">
@@ -17,9 +10,9 @@
 ---
 
 ### Обо мне :
-Привет, я бэк java-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России
-- Я работаю java-разработчиком, занимаюсь разработкой новых систем и поддержкой бэкенд части веб-приложений
-- Люблю изучать новые технологии, читать книги и решать интересные задачки
+Привет, я java-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России
+- Занимаюсь разработкой и поддержкой бэкенд части веб-приложений
+- Люблю изучать новые технологии, читать книги и решать интересные задачи
 
 ---
 
@@ -31,8 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
 </div>
 
----
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a7479&theme=dark)
